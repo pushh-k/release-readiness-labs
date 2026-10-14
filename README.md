@@ -1,7 +1,7 @@
 # OrderFlow
 
 This repository contains the Release Readiness Investigation & Deployment Approval Lab.
-Devops CA 3
+Devops CA 3 Kalvium
 ## Application
 
 A simple Node.js Express application.
